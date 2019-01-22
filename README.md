@@ -3,8 +3,8 @@
 *image datadiri<br>
 ![alt text](https://github.com/Ikhwan19/Praktikum5/blob/master/hasil%20tampilan/datadiri.jpg)
 *image tujuan<br>
-![alt text](https://github.com/Ikhwan19/Praktikum5/blob/master/hasil%20tampilan/tujuan.jpg)
+![alt text](https://github.com/Ikhwan19/Praktikum5/blob/master/hasil%20tampilan/galeri.jpg)
 *image datadiri<br>
 ![alt text](https://github.com/Ikhwan19/Praktikum5/blob/master/hasil%20tampilan/lokasi.jpg)
 *image Event<br>
-![alt text](https://github.com/Ikhwan19/Praktikum5/blob/master/hasil%20tampilan/akhir.jpg)
+![alt text](https://github.com/Ikhwan19/Praktikum5/blob/master/hasil%20tampilan/Event.jpg)
